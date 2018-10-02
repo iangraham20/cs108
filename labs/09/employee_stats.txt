@@ -1,0 +1,7 @@
+Maximum Salary:	Blair, S.:CEO ($182123)
+Minimum Salary:	Curtis, T.:Staff ($20106)
+Rank	Average Salary
+VP	101078.0
+CEO	182123.0
+Manager	70055.94736842105
+Staff	57075.38596491228
